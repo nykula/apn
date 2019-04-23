@@ -1,0 +1,15 @@
+html, body { background:#fff; }
+body { color:#000; font:14px/1.4em helvetica,arial,sans-serif;
+       margin:0 auto; max-width:700px; padding:2.2em 3.4em 3.2em; }
+a { color:#08c; text-decoration:none; }
+a:hover { text-decoration:underline; }
+a.current { color:inherit; font-weight:700; }
+article h2 { font-size:1.2em; }
+em { color:#aaa; display:block; margin:0 0 0.2em; }
+h1 { line-height:1.4em; }
+hr { border:0; border-top:1px solid transparent; clear:both; margin:1.5em 0; }
+img { float:right; margin:0 1.5em 1em; }
+@media all and (max-width:600px) { img { float:none; } }
+ul, li { padding:0; }
+ul { line-height:1.8em; list-style:none; margin:0; }
+li { display:inline; margin:0 1em 0 0; }
